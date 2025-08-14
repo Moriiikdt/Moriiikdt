@@ -5,6 +5,7 @@
 ## Hi there~👋I'm Morii
 
 - **Name**: Ruixiang Mao
+- **Mail**: morrixiang@gmail.com
 - **Hometown**: Jingmen, Hubei Province in China
 - **Educational experience**
   - Bachelor (2020.09-2024.06): Information Management and Information Systems, Xiangtan University
@@ -18,10 +19,12 @@
     </p></details>
 
 ## 📈Statistics
-![](https://github-readme-stats.vercel.app/api?username=Moriiikdt&show_icons=true&theme=transparent)
+
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Miracle0x0&show_icons=true" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miracle0x0&hide=javascript,html,css,jupyter%20notebook&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Moriiikdt&show_icons=true&theme=transparent" />
+   <span>&emsp;&emsp;</span>
+   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moriiikdt&hide=javascript,html,css,jupyter%20notebook&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
