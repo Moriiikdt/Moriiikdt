@@ -2,6 +2,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
 </p>
 
+
 ## Hi there~👋I'm Morii
 
 - **Name**: Ruixiang Mao
@@ -15,8 +16,8 @@
 
  <details><summary>Projects</summary><p>
 
-  - None
-    </p></details>
+
+  - [M-CIF: MULTI-SCALE ALIGNMENT FOR CIF-BASED NON-AUTOREGRESSIVE ASR](https://github.com/Moriiikdt/M-CIF)
 
 ## 📈Statistics
 
