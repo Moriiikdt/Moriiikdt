@@ -6,7 +6,7 @@
 ## Hi there~👋I'm Morii
 
 - **Name**: Ruixiang Mao
-- **Mail**: morrixiang@gmail.com
+- **Mail**: longmorriwen@gmail.com
 - **Hometown**: Jingmen, Hubei Province in China
 - **Educational experience**
   - Bachelor (2020.09-2024.06): Information Management and Information Systems, Xiangtan University
