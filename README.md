@@ -18,6 +18,7 @@
 
 
   - [M-CIF: MULTI-SCALE ALIGNMENT FOR CIF-BASED NON-AUTOREGRESSIVE ASR](https://github.com/Moriiikdt/M-CIF)
+  - [When Scaling Fails: Mitigating Audio Perception Decay of LALMs via Multi-Step Perception-Aware Reasoning](https://github.com/Moriiikdt/MPAR2)
 
 ## 📈Statistics
 
